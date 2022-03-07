@@ -1,4 +1,4 @@
-## Invoice Service
+## Invoice System
 
 While there can be multiple correct ways to refactor, when compared to the original file,
 the Invoice, it was a single large class and could be divided into smaller models like,
