@@ -10,8 +10,8 @@ the Invoice, it was a single large class and could be divided into smaller model
 ### How to run
 
 ```
-git clone
-cd
+git clone https://github.com/kvmsc/InvoiceSystem.git
+cd InvoiceSystem/src
 php index.php
 ```
 
